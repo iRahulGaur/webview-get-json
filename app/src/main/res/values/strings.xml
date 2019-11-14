@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">webview</string>
+    <string name="return_data">Return Data</string>
+    <string name="start">Start</string>
+</resources>
