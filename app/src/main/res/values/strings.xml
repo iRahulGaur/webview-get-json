@@ -2,4 +2,6 @@
     <string name="app_name">webview</string>
     <string name="return_data">Return Data</string>
     <string name="start">Start</string>
+    <string name="web">Web</string>
+    <string name="status">Status:</string>
 </resources>
